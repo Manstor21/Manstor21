@@ -25,12 +25,13 @@
 
 ---
 
-> [!NOTE]
-> Desarrollador de aplicaciones multiplataforma con foco en **backend** y **bases de datos**.
-> Experiencia en Java y Python en entornos de producción (XMLTV y SGCA en CINFO) y en
-> arquitecturas REST con Spring Boot, JPA y autenticación JWT. Disfruto identificando
-> problemas complejos y diseñando soluciones claras y efectivas, y explorando cómo los
-> agentes de IA y el *context engineering* pueden integrarse en el desarrollo real.
+## Sobre mí
+
+Desarrollador de aplicaciones multiplataforma con foco en **backend** y **bases de datos**.
+Experiencia en Java y Python en entornos de producción (XMLTV y SGCA en CINFO) y en
+arquitecturas REST con Spring Boot, JPA y autenticación JWT. Disfruto identificando
+problemas complejos y diseñando soluciones claras y efectivas, y explorando cómo los
+agentes de IA y el *context engineering* pueden integrarse en el desarrollo real.
 
 ---
 
@@ -47,11 +48,27 @@
 
 ---
 
+## Entorno
+
+<div align="center">
+
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
+[![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)](https://www.odoo.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+</div>
+
+---
+
 ## Lenguajes más usados
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Manstor21&layout=compact&langs_count=8&theme=dark_github&hide_border=true&locale=es" width="640" alt="Lenguajes más usados por Manstor21" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Manstor21&layout=compact&langs_count=6&theme=dark_github&hide_border=true&locale=es" width="400" alt="Lenguajes más usados por Manstor21" />
 
 </div>
 
@@ -100,9 +117,9 @@
 | Español | Nativo |
 | Inglés | B1 |
 
-> [!TIP]
-> Sentido común y criterio, adaptabilidad y autoaprendizaje. Prefiero entender el problema
-> antes de escribir código, y sostener lo que construyo con documentación y pruebas.
+**Forma de trabajar:** sentido común y criterio, adaptabilidad y autoaprendizaje. Prefiero
+entender el problema antes de escribir código, y sostener lo que construyo con documentación
+y pruebas.
 
 ---
 
