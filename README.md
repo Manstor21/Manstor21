@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/132900613?v=4&s=160" width="160" height="160" alt="Retrato de Manstor021" />
 
 # Manuel Fernández Iglesias
 
@@ -117,20 +116,6 @@ agentes de IA y el *context engineering* pueden integrarse en el desarrollo real
 **Forma de trabajar:** sentido común y criterio, adaptabilidad y autoaprendizaje. Prefiero
 entender el problema antes de escribir código, y sostener lo que construyo con documentación
 y pruebas.
-
----
-
-## Logros
-
-<div align="center">
-
-[![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Desbloqueado-2ea44f?style=for-the-badge&logo=github)](https://github.com/Manstor21?tab=achievements&achievement=pull-shark)
-[![YOLO](https://img.shields.io/badge/YOLO-Desbloqueado-2ea44f?style=for-the-badge&logo=github)](https://github.com/Manstor21?tab=achievements&achievement=yolo)
-[![Quickdraw](https://img.shields.io/badge/Quickdraw-Desbloqueado-2ea44f?style=for-the-badge&logo=github)](https://github.com/Manstor21?tab=achievements&achievement=quickdraw)
-
-</div>
-
----
 
 ## Contacto
 
