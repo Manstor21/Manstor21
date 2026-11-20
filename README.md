@@ -1,76 +1,108 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/132900613?v=4&s=160" width="160" height="160" alt="Retrato de Manstor021" />
+
 # Manuel Fernández Iglesias
 
-**Desarrollador de aplicaciones multiplataforma · Backend y bases de datos**
+**Manstor021** · Desarrollador backend Java · Bases de datos
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Seguidores](https://img.shields.io/github/followers/Manstor21?style=for-the-badge&logo=github&logoColor=white&label=seguidores&color=4493f8&labelColor=0d1117)](https://github.com/Manstor21?tab=followers)
+[![Estrellas](https://img.shields.io/github/stars/Manstor21?style=for-the-badge&logo=github&logoColor=white&label=estrellas&color=4493f8&labelColor=0d1117)](https://github.com/Manstor21?tab=repositories)
+[![6 proyectos](https://img.shields.io/badge/6%20proyectos-4493f8?style=for-the-badge&labelColor=0d1117)](https://github.com/Manstor21?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mafeig-4493f8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/mafeig)
+[![Gmail](https://img.shields.io/badge/Gmail-mfernandezi0021-4493f8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:mfernandezi0021@gmail.com)
 
 </div>
 
-> [!NOTE]
-> Desarrollador de aplicaciones multiplataforma con foco en **backend** y **bases de datos**.
-> Experiencia en Java y Python en entornos de producción (XMLTV y SGCA en CINFO) y en
-> arquitecturas REST con Spring Boot, JPA y autenticación JWT. Disfruto identificando
-> problemas complejos y diseñando soluciones claras y efectivas, y explorando cómo los
-> agentes de IA y el *context engineering* pueden integrarse en el desarrollo real.
+---
+
+## Panorama
+
+Construyo servicios y aplicaciones backend con foco en datos: Java y Spring Boot, modelado y consulta en Oracle/MySQL, y pruebas que sostienen el comportamiento. Mi experiencia combina desarrollo, documentación y depuración en entornos de emisión, gestión empresarial y formación.
+
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://github.com/Manstor21"><img src="https://github-stats-extended.vercel.app/api?username=Manstor21&show_icons=true&theme=dark_github&locale=es&hide_border=true" width="460" alt="Estadísticas de contribuciones de Manstor21" /></a></td>
+    <td align="center" width="33%"><a href="https://github.com/Manstor21"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Manstor21&layout=compact&langs_count=6&theme=dark_github&hide_border=true&locale=es" width="460" alt="Lenguajes más usados por Manstor21" /></a></td>
+    <td align="center" width="33%"><a href="https://github.com/Manstor21"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manstor21&theme=github_dark&name=Manuel%20Fernandez" width="460" alt="Detalles del perfil de Manstor21" /></a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Manstor21"><img src="https://streak-stats.demolab.com/?user=Manstor21&theme=dark&locale=es&background=0d1117&border=30363d&fire=4493f8&ring=4493f8&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=true" width="760" alt="Racha de contribuciones de Manstor21" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Manstor21"><img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Manstor21&theme=github-compact&custom_title=Actividad%20reciente&bg_color=0d1117&border_color=30363d&color=c9d1d9&title_color=4493f8&line=4493f8&point=4493f8&hide_border=true&days=30&grid=false" width="760" alt="Actividad reciente de Manstor21" /></a></td>
+  </tr>
+</table>
+
+---
 
 ## Stack
 
 | Área | Tecnologías |
-|------|-------------|
-| **Backend** | Java 17, Python, Spring Boot 3, Maven, JUnit |
-| **Datos** | MySQL, Oracle, SQL Server, SQLite, JPA / Hibernate |
-| **APIs** | REST, SOAP, JWT, Postman, SoapUI |
-| **Frontend y móvil** | JavaScript, jQuery, HTML / CSS, Android Studio |
-| **DevOps** | Docker, Podman, Linux, Git, GitHub Actions |
-| **IA y agentes** | Claude Code, OpenCode, MCP, SKILL.md, subagentes, context engineering |
+| --- | --- |
+| Lenguajes | Java 17, Python, JavaScript, jQuery, SQL |
+| Backend | Spring Boot, Hibernate/JPA, REST, SOAP, JWT, Maven, Lombok |
+| Datos | Oracle, MySQL, modelado y consultas |
+| Herramientas | Git, Docker, Podman, Postman, SoapUI, Odoo ERP |
 
-## Proyectos destacados
+---
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [**WattWise**](https://github.com/Manstor21/WattWise) | Optimizador de consumo eléctrico con tarifas PVPC (ESIOS/REE): backend Spring Boot, dashboard web, app Android, analítica en Python, panel Swing y Docker. | Java · Spring Boot · Python · Docker |
-| [**laser-antipest-sim**](https://github.com/Manstor21/laser-antipest-sim) | Detección y clasificación de plagas voladoras por fusión multisensor y visión por computador (YOLOv8, OpenCV, LiDAR, radar, MQTT). Simulación orientada a proteger colmenares de *Vespa velutina*. | Python · YOLOv8 · OpenCV |
-| [**citas-medicas**](https://github.com/Manstor21/citas-medicas) | Sistema de gestión de citas médicas con API REST y SOAP. | Java · Spring Boot · MySQL |
-| [**ValkyrieConnect-AutoHeroQuestFarmer**](https://github.com/Manstor21/ValkyrieConnect-AutoHeroQuestFarmer) | Automatización de misiones por reconocimiento de imágenes, sin acceso a memoria ni modificación del juego. | Python · Visión por computador |
-| [**Acepta_el_reto**](https://github.com/Manstor21/Acepta_el_reto) | Resolución de problemas de programación en Java, con publicación automática vía GitHub Actions. | Java · GitHub Actions |
-| [**Mant_Pers_2023**](https://github.com/Manstor21/Mant_Pers_2023) | Gestión de personas con persistencia en ficheros de acceso directo. | Java |
+## Proyectos
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/Manstor21/WattWise"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Manstor21&repo=WattWise&theme=dark_github_repocard&hide_border=true" width="460" alt="Tarjeta del repositorio WattWise" /></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/Manstor21/citas-medicas"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Manstor21&repo=citas-medicas&theme=dark_github_repocard&hide_border=true&description_lines_count=2" width="460" alt="Tarjeta del repositorio citas-medicas" /></a></td>
+  </tr>
+</table>
+
+| Repositorio | Qué hace |
+| --- | --- |
+| [WattWise](https://github.com/Manstor21/WattWise) | Gestión de tarifa PVPC (ESIOS/REE) con backend Spring Boot, dashboard web, cliente Android, analítica en Python, cliente Swing y contenedores Docker. |
+| [laser-antipest-sim](https://github.com/Manstor21/laser-antipest-sim) | Sin descripción publicada. |
+| [citas-medicas](https://github.com/Manstor21/citas-medicas) | Sistema de gestión de citas médicas: API REST y SOAP. |
+| [ValkyrieConnect-AutoHeroQuestFarmer](https://github.com/Manstor21/ValkyrieConnect-AutoHeroQuestFarmer) | Automatización de misiones de héroe basada en reconocimiento de imagen, sin acceso a memoria ni modificación del juego. |
+| [Acepta_el_reto](https://github.com/Manstor21/Acepta_el_reto) | Sin descripción publicada. |
+| [Mant_Pers_2023](https://github.com/Manstor21/Mant_Pers_2023) | Sin descripción publicada. |
+
+---
 
 <details>
-<summary><strong>Trayectoria</strong> — <i>clic para ver experiencia y formación</i></summary>
+<summary>Trayectoria</summary>
 
-> [!TIP]
-> Resumen de experiencia y formación; el detalle completo está en el CV.
+| Período | Experiencia |
+| --- | --- |
+| 06/2024 – 03/2025 | **CINFO** · Desarrollador TIVII Backend. Java y Python en proyectos XMLTV/SGCA: procesamiento de XML, imágenes y metadatos para emisión de televisión; trabajo con Oracle y MySQL; documentación, pruebas y depuración. |
+| Actualidad | **JIM Sport** · Gestión de inventario y pedidos con Odoo ERP. |
+| 2025 – actualidad | **Xuventude Mentoring / Balidea** · Backend de gestión de citas médicas con Java 17, Spring Boot, Hibernate/JPA, MySQL, Maven, Lombok, JWT, arquitectura multicapa, REST, Postman y SoapUI. |
 
-| Periodo | Experiencia |
-|---------|-------------|
-| 2024 – 2025 | **Desarrollador TIVII Backend** en CINFO — Java y Python para XMLTV y SGCA, documentos XML, ficheros e imágenes con Oracle/MySQL, documentación, pruebas y corrección de errores. |
-| 2025 – actual | **Xuventude Mentoring (Balidea)** — backend de citas médicas con Java 17, Spring Boot, JPA, MySQL, Maven, Lombok, JWT y arquitectura multicapa. |
-| 2026 – actual | **JIM Sport** — gestión de inventario y pedidos con Odoo (ERP). |
-
-| Formación | Centro |
-|-----------|--------|
-| Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (2021 – 2024) | CPR AFUNDACIÓN |
-| Spring Boot 3.x: aplicaciones y servicios web en Java (2025) | Cluster Tic Galicia |
-| Fundamentos de desarrollo web con JavaScript y jQuery (2025) | Cluster Tic Galicia |
-| Docker y Podman a fondo (2025 – 2026) | Cluster Tic Galicia |
+| Formación | Período |
+| --- | --- |
+| Técnico Superior en Desarrollo de Aplicaciones Multiplataforma · CPR AFundación | 2021 – 2024 |
+| Spring Boot 3.x, JavaScript/jQuery, Docker/Podman · Cluster Tic Galicia | 2025 – 2026 |
 
 </details>
 
-> [!TIP]
-> **Actualmente:** reforzando Docker/Podman, arquitecturas de agentes y revisión de código generado por IA.
+<details>
+<summary>Idiomas y forma de trabajar</summary>
+
+| Idioma | Nivel |
+| --- | --- |
+| Gallego | Nativo |
+| Español | Nativo |
+| Inglés | B1 |
+
+Sentido común y criterio, adaptabilidad y autoaprendizaje.
+
+</details>
+
+---
 
 ## Contacto
 
-| Canal | Dato |
-|-------|------|
-| **LinkedIn** | [mafeig](https://www.linkedin.com/in/mafeig) |
-| **Email** | mfernandezi0021@gmail.com |
-| **Ubicación** | Lugo, España |
-| **GitHub** | [@Manstor21](https://github.com/Manstor21) |
+- GitHub: [Manstor21](https://github.com/Manstor21)
+- LinkedIn: [mafeig](https://www.linkedin.com/in/mafeig)
+- Correo: [mfernandezi0021@gmail.com](mailto:mfernandezi0021@gmail.com)
