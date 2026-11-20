@@ -32,6 +32,16 @@ agentes de IA y el *context engineering* pueden integrarse en el desarrollo real
 
 ---
 
+## En foco
+
+| Ámbito | Detalle |
+| --- | --- |
+| **Construyendo** | Backend de gestión de citas médicas con Java 17, Spring Boot, JPA y JWT (*Xuventude Mentoring / Balidea*). |
+| **Aprendiendo** | Spring Boot 3.x, Docker y Podman (*Cluster Tic Galicia*, 2025 – 2026). |
+| **Explorando** | Agentes de IA, MCP, `SKILL.md` y *context engineering* aplicados al desarrollo real. |
+
+---
+
 ## Stack
 
 | Área | Tecnologías |
@@ -110,16 +120,6 @@ y pruebas.
 
 ---
 
-## En foco
-
-| Ámbito | Detalle |
-| --- | --- |
-| **Construyendo** | Backend de gestión de citas médicas con Java 17, Spring Boot, JPA y JWT (*Xuventude Mentoring / Balidea*). |
-| **Aprendiendo** | Spring Boot 3.x, Docker y Podman (*Cluster Tic Galicia*, 2025 – 2026). |
-| **Explorando** | Agentes de IA, MCP, `SKILL.md` y *context engineering* aplicados al desarrollo real. |
-
----
-
 ## Contacto
 
 <div align="center">
@@ -129,9 +129,3 @@ y pruebas.
 [![Gmail](https://img.shields.io/badge/Gmail-mfernandezi0021-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfernandezi0021@gmail.com)
 
 </div>
-
-| Canal | Enlace |
-| --- | --- |
-| GitHub | [Manstor21](https://github.com/Manstor21) |
-| LinkedIn | [mafeig](https://www.linkedin.com/in/mafeig) |
-| Correo | [mfernandezi0021@gmail.com](mailto:mfernandezi0021@gmail.com) |
