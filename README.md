@@ -18,9 +18,6 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)](https://podman.io/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mafeig-4493f8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/mafeig)
-[![Gmail](https://img.shields.io/badge/Gmail-mfernandezi0021-4493f8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:mfernandezi0021@gmail.com)
-
 </div>
 
 ---
@@ -59,16 +56,6 @@ agentes de IA y el *context engineering* pueden integrarse en el desarrollo real
 [![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
 [![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)](https://www.odoo.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-
-</div>
-
----
-
-## Lenguajes más usados
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Manstor21&layout=compact&langs_count=6&theme=dark_github&hide_border=true&locale=es" width="400" alt="Lenguajes más usados por Manstor21" />
 
 </div>
 
@@ -135,6 +122,16 @@ y pruebas.
 
 ## Contacto
 
-- GitHub: [Manstor21](https://github.com/Manstor21)
-- LinkedIn: [mafeig](https://www.linkedin.com/in/mafeig)
-- Correo: [mfernandezi0021@gmail.com](mailto:mfernandezi0021@gmail.com)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Manstor21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manstor21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mafeig-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mafeig)
+[![Gmail](https://img.shields.io/badge/Gmail-mfernandezi0021-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfernandezi0021@gmail.com)
+
+</div>
+
+| Canal | Enlace |
+| --- | --- |
+| GitHub | [Manstor21](https://github.com/Manstor21) |
+| LinkedIn | [mafeig](https://www.linkedin.com/in/mafeig) |
+| Correo | [mfernandezi0021@gmail.com](mailto:mfernandezi0021@gmail.com) |
