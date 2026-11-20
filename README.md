@@ -120,6 +120,18 @@ y pruebas.
 
 ---
 
+## Logros
+
+<div align="center">
+
+[![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Desbloqueado-2ea44f?style=for-the-badge&logo=github)](https://github.com/Manstor21?tab=achievements&achievement=pull-shark)
+[![YOLO](https://img.shields.io/badge/YOLO-Desbloqueado-2ea44f?style=for-the-badge&logo=github)](https://github.com/Manstor21?tab=achievements&achievement=yolo)
+[![Quickdraw](https://img.shields.io/badge/Quickdraw-Desbloqueado-2ea44f?style=for-the-badge&logo=github)](https://github.com/Manstor21?tab=achievements&achievement=quickdraw)
+
+</div>
+
+---
+
 ## Contacto
 
 <div align="center">
